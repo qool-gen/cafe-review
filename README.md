@@ -6,11 +6,11 @@ the tricky part of the data is the "Cuisine" attribute. it contains multiple att
 using one hot encoding could be too long ~ 80 characters. so, it's good to break the coded cuisine into 4 parts.
 
 how?
-cuisine is decomposed into country and aux
-country = Turkish, Middle eastern etc
-aux = Deli, Street Food
+cuisine is decomposed into country and aux.
+country = Turkish, Middle eastern etc.
+aux = Deli, Street Food.
 
 example?
-Cuisine : Italian, Steakhouse, Barbecue
-Country : Italian
-Aux     : Steakhouse, Barbecua
+Cuisine : Italian, Steakhouse, Barbecue.
+Country : Italian.
+Aux     : Steakhouse, Barbecue.
